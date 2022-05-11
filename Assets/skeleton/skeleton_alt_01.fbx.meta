@@ -1,0 +1,318 @@
+fileFormatVersion: 2
+guid: 581a4dd8d276c9f41aba2d3ecbaf0f33
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: ankle_L
+    100002: ankle_R
+    100004: Armature.001
+    100006: Bone
+    100008: Bone.001
+    100010: Bone.002
+    100012: Bone.003
+    100014: Bone.004
+    100016: Bone.005
+    100018: Bone.006
+    100020: Bone.007
+    100022: Bone.007_end
+    100024: Calf_L
+    100026: Calf_R
+    100028: Foot_L
+    100030: Foot_L_end
+    100032: Foot_R
+    100034: Foot_R_end
+    100036: ForeArm_L
+    100038: ForeArm_R
+    100040: Group1034
+    100042: Group33524
+    100044: Group49894
+    100046: Hand_L
+    100048: Hand_R
+    100050: Index01_L
+    100052: Index01_R
+    100054: Index02_L
+    100056: Index02_R
+    100058: Index03_L
+    100060: Index03_L_end
+    100062: Index03_R
+    100064: Index03_R_end
+    100066: Little01_L
+    100068: Little01_R
+    100070: Little02_L
+    100072: Little02_R
+    100074: Little03_L
+    100076: Little03_L_end
+    100078: Little03_R
+    100080: Little03_R_end
+    100082: Middle01_L
+    100084: Middle01_R
+    100086: Middle02_L
+    100088: Middle02_R
+    100090: Middle03_L
+    100092: Middle03_L_end
+    100094: Middle03_R
+    100096: Middle03_R_end
+    100098: pelvis_01_low
+    100100: pelvis_02_low
+    100102: RetopoGroup1
+    100104: RetopoGroup1.001
+    100106: Ring01_L
+    100108: Ring01_R
+    100110: Ring02_L
+    100112: Ring02_R
+    100114: Ring03_L
+    100116: Ring03_L_end
+    100118: Ring03_R
+    100120: Ring03_R_end
+    100122: //RootNode
+    100124: skull_down_low
+    100126: skull_up_low
+    100128: Sum02_L
+    100130: Sum02_R
+    100132: Sum03_L
+    100134: Sum03_R
+    100136: Sum04_L
+    100138: Sum04_L_end
+    100140: Sum04_R
+    100142: Sum04_R_end
+    100144: Thigh_L
+    100146: Thigh_R
+    100148: UpperArm_L
+    100150: UpperArm_R
+    100152: Wrist_L
+    100154: Wrist_R
+    100156: Wrist_R_end
+    400000: ankle_L
+    400002: ankle_R
+    400004: Armature.001
+    400006: Bone
+    400008: Bone.001
+    400010: Bone.002
+    400012: Bone.003
+    400014: Bone.004
+    400016: Bone.005
+    400018: Bone.006
+    400020: Bone.007
+    400022: Bone.007_end
+    400024: Calf_L
+    400026: Calf_R
+    400028: Foot_L
+    400030: Foot_L_end
+    400032: Foot_R
+    400034: Foot_R_end
+    400036: ForeArm_L
+    400038: ForeArm_R
+    400040: Group1034
+    400042: Group33524
+    400044: Group49894
+    400046: Hand_L
+    400048: Hand_R
+    400050: Index01_L
+    400052: Index01_R
+    400054: Index02_L
+    400056: Index02_R
+    400058: Index03_L
+    400060: Index03_L_end
+    400062: Index03_R
+    400064: Index03_R_end
+    400066: Little01_L
+    400068: Little01_R
+    400070: Little02_L
+    400072: Little02_R
+    400074: Little03_L
+    400076: Little03_L_end
+    400078: Little03_R
+    400080: Little03_R_end
+    400082: Middle01_L
+    400084: Middle01_R
+    400086: Middle02_L
+    400088: Middle02_R
+    400090: Middle03_L
+    400092: Middle03_L_end
+    400094: Middle03_R
+    400096: Middle03_R_end
+    400098: pelvis_01_low
+    400100: pelvis_02_low
+    400102: RetopoGroup1
+    400104: RetopoGroup1.001
+    400106: Ring01_L
+    400108: Ring01_R
+    400110: Ring02_L
+    400112: Ring02_R
+    400114: Ring03_L
+    400116: Ring03_L_end
+    400118: Ring03_R
+    400120: Ring03_R_end
+    400122: //RootNode
+    400124: skull_down_low
+    400126: skull_up_low
+    400128: Sum02_L
+    400130: Sum02_R
+    400132: Sum03_L
+    400134: Sum03_R
+    400136: Sum04_L
+    400138: Sum04_L_end
+    400140: Sum04_R
+    400142: Sum04_R_end
+    400144: Thigh_L
+    400146: Thigh_R
+    400148: UpperArm_L
+    400150: UpperArm_R
+    400152: Wrist_L
+    400154: Wrist_R
+    400156: Wrist_R_end
+    2100000: Foot
+    2100002: Leg
+    2100004: hand
+    2100006: arm
+    2100008: spine
+    2100010: rib
+    2100012: blade
+    2100014: Skull
+    2100016: pelvis
+    4300000: RetopoGroup1.001
+    4300002: RetopoGroup1
+    4300004: Group33524
+    4300006: Group49894
+    4300008: Group1034
+    4300010: skull_down_low
+    4300012: skull_up_low
+    4300014: pelvis_02_low
+    4300016: pelvis_01_low
+    7400000: Armature.001|Armature.001Action
+    9500000: //RootNode
+    13700000: Group1034
+    13700002: Group33524
+    13700004: Group49894
+    13700006: pelvis_01_low
+    13700008: pelvis_02_low
+    13700010: RetopoGroup1
+    13700012: RetopoGroup1.001
+    13700014: skull_down_low
+    13700016: skull_up_low
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Foot
+    second: {fileID: 2100000, guid: 6fbd2831d5e8eed49bf8357c193e1061, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Leg
+    second: {fileID: 2100000, guid: 6fbd2831d5e8eed49bf8357c193e1061, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Skull
+    second: {fileID: 2100000, guid: ae431c5a85153084084184d014d3b325, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: arm
+    second: {fileID: 2100000, guid: c41252a1416c5904a8eadbbad3a2c16b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: blade
+    second: {fileID: 2100000, guid: 2610e029632c4564bab73a8d8660c073, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hand
+    second: {fileID: 2100000, guid: e70f4af65661c354babccd8e8d0848e4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pelvis
+    second: {fileID: 2100000, guid: cb8933055f315ef46a7f77ea25e57b7f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rib
+    second: {fileID: 2100000, guid: b7d57cc857c5bf94193064d858d437c3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: spine
+    second: {fileID: 2100000, guid: 3917c65babd94054ebcce61e666244c0, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

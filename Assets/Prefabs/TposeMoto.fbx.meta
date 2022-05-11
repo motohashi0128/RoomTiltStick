@@ -1,0 +1,405 @@
+fileFormatVersion: 2
+guid: 24e38defa79c32148817887fae3105c7
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: TRC 7:C7
+    100004: TRC 7:CBWT
+    100006: TRC 7:LANK
+    100008: TRC 7:LBAC
+    100010: TRC 7:LBHD
+    100012: TRC 7:LBWT
+    100014: TRC 7:LCAV
+    100016: TRC 7:LELB
+    100018: TRC 7:LFHD
+    100020: TRC 7:LFIN
+    100022: TRC 7:LFRM
+    100024: TRC 7:LFWT
+    100026: TRC 7:LHEE
+    100028: TRC 7:LKNE
+    100030: TRC 7:LMT5
+    100032: TRC 7:LSHIN
+    100034: TRC 7:LSHO
+    100036: TRC 7:LTHI
+    100038: TRC 7:LTOE
+    100040: TRC 7:LUPA
+    100042: TRC 7:LWRIA
+    100044: TRC 7:LWRIB
+    100046: TRC 7:RANK
+    100048: TRC 7:RBHD
+    100050: TRC 7:RBWT
+    100052: TRC 7:RCAV
+    100054: TRC 7:RELB
+    100056: TRC 7:RFHD
+    100058: TRC 7:RFIN
+    100060: TRC 7:RFRM
+    100062: TRC 7:RFWT
+    100064: TRC 7:RHEE
+    100066: TRC 7:RKNE
+    100068: TRC 7:RMT5
+    100070: TRC 7:RSHIN
+    100072: TRC 7:RSHO
+    100074: TRC 7:RTHI
+    100076: TRC 7:RTOE
+    100078: TRC 7:RUPA
+    100080: TRC 7:RWRIA
+    100082: TRC 7:RWRIB
+    100084: TRC 7:STRN
+    100086: TRC 7:T10
+    100088: TRC 7:UPHD
+    400000: //RootNode
+    400002: TRC 7:C7
+    400004: TRC 7:CBWT
+    400006: TRC 7:LANK
+    400008: TRC 7:LBAC
+    400010: TRC 7:LBHD
+    400012: TRC 7:LBWT
+    400014: TRC 7:LCAV
+    400016: TRC 7:LELB
+    400018: TRC 7:LFHD
+    400020: TRC 7:LFIN
+    400022: TRC 7:LFRM
+    400024: TRC 7:LFWT
+    400026: TRC 7:LHEE
+    400028: TRC 7:LKNE
+    400030: TRC 7:LMT5
+    400032: TRC 7:LSHIN
+    400034: TRC 7:LSHO
+    400036: TRC 7:LTHI
+    400038: TRC 7:LTOE
+    400040: TRC 7:LUPA
+    400042: TRC 7:LWRIA
+    400044: TRC 7:LWRIB
+    400046: TRC 7:RANK
+    400048: TRC 7:RBHD
+    400050: TRC 7:RBWT
+    400052: TRC 7:RCAV
+    400054: TRC 7:RELB
+    400056: TRC 7:RFHD
+    400058: TRC 7:RFIN
+    400060: TRC 7:RFRM
+    400062: TRC 7:RFWT
+    400064: TRC 7:RHEE
+    400066: TRC 7:RKNE
+    400068: TRC 7:RMT5
+    400070: TRC 7:RSHIN
+    400072: TRC 7:RSHO
+    400074: TRC 7:RTHI
+    400076: TRC 7:RTOE
+    400078: TRC 7:RUPA
+    400080: TRC 7:RWRIA
+    400082: TRC 7:RWRIB
+    400084: TRC 7:STRN
+    400086: TRC 7:T10
+    400088: TRC 7:UPHD
+    9500000: //RootNode
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: "Invalid Avatar Rig Configuration. Missing or invalid transform:\n\tRequired
+      human bone 'Hips' not found\n"
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton:
+    - name: TposeMoto(Clone)
+      parentName: 
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: TRC 7:LFHD
+      parentName: TposeMoto(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: TRC 7:RFHD
+      parentName: TposeMoto(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: TRC 7:LBHD
+      parentName: TposeMoto(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: TRC 7:RBHD
+      parentName: TposeMoto(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: TRC 7:UPHD
+      parentName: TposeMoto(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: TRC 7:C7
+      parentName: TposeMoto(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: TRC 7:T10
+      parentName: TposeMoto(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: TRC 7:LCAV
+      parentName: TposeMoto(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: TRC 7:RCAV
+      parentName: TposeMoto(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: TRC 7:STRN
+      parentName: TposeMoto(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: TRC 7:LBAC
+      parentName: TposeMoto(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: TRC 7:LSHO
+      parentName: TposeMoto(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: TRC 7:LUPA
+      parentName: TposeMoto(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: TRC 7:LELB
+      parentName: TposeMoto(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: TRC 7:LFRM
+      parentName: TposeMoto(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: TRC 7:LWRIA
+      parentName: TposeMoto(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: TRC 7:LWRIB
+      parentName: TposeMoto(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: TRC 7:LFIN
+      parentName: TposeMoto(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: TRC 7:RSHO
+      parentName: TposeMoto(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: TRC 7:RUPA
+      parentName: TposeMoto(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: TRC 7:RELB
+      parentName: TposeMoto(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: TRC 7:RFRM
+      parentName: TposeMoto(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: TRC 7:RWRIA
+      parentName: TposeMoto(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: TRC 7:RWRIB
+      parentName: TposeMoto(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: TRC 7:RFIN
+      parentName: TposeMoto(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: TRC 7:LFWT
+      parentName: TposeMoto(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: TRC 7:RFWT
+      parentName: TposeMoto(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: TRC 7:LBWT
+      parentName: TposeMoto(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: TRC 7:RBWT
+      parentName: TposeMoto(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: TRC 7:CBWT
+      parentName: TposeMoto(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: TRC 7:LTHI
+      parentName: TposeMoto(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: TRC 7:LKNE
+      parentName: TposeMoto(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: TRC 7:LSHIN
+      parentName: TposeMoto(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: TRC 7:LANK
+      parentName: TposeMoto(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: TRC 7:LHEE
+      parentName: TposeMoto(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: TRC 7:LTOE
+      parentName: TposeMoto(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: TRC 7:LMT5
+      parentName: TposeMoto(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: TRC 7:RTHI
+      parentName: TposeMoto(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: TRC 7:RKNE
+      parentName: TposeMoto(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: TRC 7:RSHIN
+      parentName: TposeMoto(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: TRC 7:RANK
+      parentName: TposeMoto(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: TRC 7:RHEE
+      parentName: TposeMoto(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: TRC 7:RTOE
+      parentName: TposeMoto(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: TRC 7:RMT5
+      parentName: TposeMoto(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 3
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

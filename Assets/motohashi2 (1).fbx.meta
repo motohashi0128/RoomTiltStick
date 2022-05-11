@@ -1,0 +1,206 @@
+fileFormatVersion: 2
+guid: ce20f5d5f46ff8649af43bb447579590
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: face1
+    100002: hiar
+    100004: leftarm
+    100006: lefthand
+    100008: leftleg
+    100010: lowerbody
+    100012: //RootNode
+    100014: rightarm
+    100016: righthand
+    100018: rightleg
+    100020: upperbody
+    400000: face1
+    400002: hiar
+    400004: leftarm
+    400006: lefthand
+    400008: leftleg
+    400010: lowerbody
+    400012: //RootNode
+    400014: rightarm
+    400016: righthand
+    400018: rightleg
+    400020: upperbody
+    2100000: lambert11
+    2100002: lambert5
+    2100004: lambert35
+    2100006: lambert33
+    2100008: hand_lambert9
+    2100010: lambert31
+    2100012: lambert29
+    2100014: lambert27
+    2100016: lambert28
+    2300000: face1
+    2300002: hiar
+    2300004: leftarm
+    2300006: lefthand
+    2300008: leftleg
+    2300010: lowerbody
+    2300012: rightarm
+    2300014: righthand
+    2300016: rightleg
+    2300018: upperbody
+    3300000: face1
+    3300002: hiar
+    3300004: leftarm
+    3300006: lefthand
+    3300008: leftleg
+    3300010: lowerbody
+    3300012: rightarm
+    3300014: righthand
+    3300016: rightleg
+    3300018: upperbody
+    4300000: hiar
+    4300002: face1
+    4300004: upperbody
+    4300006: rightarm
+    4300008: righthand
+    4300010: leftarm
+    4300012: lefthand
+    4300014: lowerbody
+    4300016: rightleg
+    4300018: leftleg
+    9500000: //RootNode
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: "Invalid Avatar Rig Configuration. Missing or invalid transform:\n\tRequired
+      human bone 'Hips' not found\n"
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton:
+    - name: motohashi2 (1)(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hiar
+      parentName: motohashi2 (1)(Clone)
+      position: {x: 0.00039620543, y: 0.0063320473, z: 0.00014303833}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: face1
+      parentName: motohashi2 (1)(Clone)
+      position: {x: 0.0004277802, y: 0.0055554626, z: 0.00064701214}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: upperbody
+      parentName: motohashi2 (1)(Clone)
+      position: {x: 0.00030044853, y: 0.0023058492, z: -0.000001412332}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: rightarm
+      parentName: motohashi2 (1)(Clone)
+      position: {x: 0.0046263076, y: 0.003534159, z: 0.00011259347}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: righthand
+      parentName: motohashi2 (1)(Clone)
+      position: {x: 0.0076021147, y: 0.002305915, z: 0.001063463}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: leftarm
+      parentName: motohashi2 (1)(Clone)
+      position: {x: -0.0042312765, y: 0.0037802707, z: 0.000010396317}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: lefthand
+      parentName: motohashi2 (1)(Clone)
+      position: {x: -0.0075511313, y: 0.0030044373, z: 0.00051645935}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: lowerbody
+      parentName: motohashi2 (1)(Clone)
+      position: {x: 0.000021678059, y: -0.0020510647, z: 0.00024928318}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: rightleg
+      parentName: motohashi2 (1)(Clone)
+      position: {x: 0.0009589073, y: -0.005638076, z: -0.00011216744}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: leftleg
+      parentName: motohashi2 (1)(Clone)
+      position: {x: -0.0012360499, y: -0.00559208, z: 0.00014661711}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 3
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
